@@ -1,0 +1,67 @@
+body {
+    background-color: #f1f3f5;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.navbar-brand {
+    font-family: 'Concert One', cursive;
+    font-size: 18px;
+}
+
+.carousel-img {
+    height: 120vh;
+}
+
+.nav-link a {
+    float: right;
+}
+
+.title-text {
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    margin-bottom: 50px;
+}
+
+.navbar {
+    padding: 12px;
+}
+
+.logo {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    color: ghostwhite;
+}
+
+#submitted{
+    margin-top: 400px;
+    font-size: 500%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* background: #0f0c29;   fallback for old browsers 
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  Chrome 10-25, Safari 5.1-6 
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ 
+*/

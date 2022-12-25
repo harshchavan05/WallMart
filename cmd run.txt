@@ -1,0 +1,10 @@
+In cmd run 
+-> node app.js
+
+start mogodb server in services 
+And open mongosh
+ (Default: mongodb://localhost/): 27017
+run -- 1. show dbs
+	   2. use FormsDB
+	   3. show collections 
+	   4. to show json document run db.forms.find()
